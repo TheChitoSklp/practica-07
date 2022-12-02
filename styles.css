@@ -32,7 +32,7 @@
   }
 
   .imgs {
-    background-image: url(../img/image-product-desktop.jpg);
+    background-image: url(./img/image-product-desktop.jpg);
     background-repeat: no-repeat;
     background-size: 320px;
     border-radius: 10px 0px 0px 10px;
@@ -122,7 +122,7 @@
   }
 
   .imgs {
-    background-image: url(../img/image-product-mobile.jpg);
+    background-image: url(./img/image-product-mobile.jpg);
     background-repeat: no-repeat;
     background-size: 300px;
     border-radius: 10px 0px 0px 10px;
